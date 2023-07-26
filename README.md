@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Omar Rezk
 =================================================================================================================================
 
-Aspiring Developer
+Software Developer
 ------------------
 
-I was given the opportunity to explore and focus on computer science and dedicate my full time and attention which I had not been able to do in the past. I really enjoy problem solving and have the drive to be a self taught developer. I attended CS Prep and JavaScript courses online as well as weekly workshops and courses on Udemy and reached out to community or private tutoring. I have been self learning and practicing full time for the past 6 months or more. I am adamant on making a career out of my passion. I want to pursue my objective of turning my passion for programming, coding and web design into a career that is rewarding and get a step closer to becoming a part of the developer community and engaging with like minded professionals in the field and to be mentored by the best.
+A focused and hardworking Developer with a passion for combining my technical expertise with Graphic Design to continuously contribute to projects to expand my knowledge and portfolio. My journey is always evolving through challenging myself in problem solving, breaking down complex projects into manageable pieces and developing efficient solutions to solve them. Keeping up-to-date with the latest industry trends, technologies and educating myself on the gaps in the market has been key in my development and to contributing to the industry. 
 
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [omar.rizk6@gmail.com](mailto:omar.rizk6@gmail.com)
